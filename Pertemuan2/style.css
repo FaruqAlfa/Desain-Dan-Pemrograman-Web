@@ -19,7 +19,7 @@ h2{
 }
 
 body{
-    background: url('img/tree.jfif'), url('img/land.jpeg');
+    background: url('img/tree.png'), url('img/land.jpeg');
     background-repeat: no-repeat, repeat;
     color: white;
 }

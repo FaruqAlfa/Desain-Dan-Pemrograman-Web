@@ -15,10 +15,11 @@
     padding: 1rem;
 }
 div.row.left {
-    background-color: cadetblue;
     width: 30%;
     padding-left:20px;
     position: fixed;
+    background-image: url('img/night.jpg');
+    color: aliceblue;
 }
 
 div.row.right {
@@ -30,6 +31,8 @@ div.row.right {
 img {
     display: block;
     margin: 1rem auto;
+    border-radius: 50%;
+    width: 51%;
 }
 
 .contact{
@@ -78,4 +81,12 @@ h3{
 
 p.p1 {
     font-size: 14pt;
+}
+
+a:hover{
+color: yellowgreen;
+}
+
+a:link{
+    color: cornflowerblue;
 }

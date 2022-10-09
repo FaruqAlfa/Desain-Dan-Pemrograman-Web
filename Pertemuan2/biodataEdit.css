@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    width: auto;
+    background-color: #06283D;
+    height: 350vh;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: 4C6793;
+
+}
+
+a:hover{
+    color: wheat;
+}
+
+header{
+    background-color: #256D85;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.foto {
+    margin: 1rem auto;
+    border-radius: 50%;
+    width: 50%;
+}
+
+.pd{
+    margin-top: 500px;
+}
+
+.H1{
+    height: 100vh;
+}
+
+.informaton{
+    background-color: #256D85;
+    border-radius: 1rem;
+    width: 40%;
+    text-align: 10%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    
+}
+
+
+td{
+    border: 10px;
+    /* background-color: white; */
+    padding-left: 35px;
+    border-radius: 1rem;
+    width: 65px;
+    padding-top: 200px;
+}
+
+
+.card1{
+    background-color: #256D85;
+    height: 60px;
+    width: 60px;
+    padding: 45px 35px;
+    font-size: medium;
+}
+
+.skil{
+    padding-right: 100px;
+}
+
+.guide{
+    float: left;
+    margin: 1rem auto;
+    width: 50px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+   
+}
+
+.bertahan{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.gm{
+    margin-left: -30%;
+    float: left;
+    margin-top: 50px;
+    width: 50px;
+ }
+
+.css{
+    margin-top: 65px;
+    padding-left: 65px;
+}
+
+.bhs{
+    padding-right: 100px;
+}
+
+.indo{
+    float: left;
+    width: 50px;
+    padding-top: -30px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+.ina{
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.wyg{
+    margin-left: -30%;
+   float: left;
+   width: 50px;
+   margin-top: 10px;
+}
+
+.jw{
+    padding-top: 20px;
+}
+
+
+.cns{
+    float: left;
+    width: 50px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+
+.pg{
+    padding-top: 10px;
+    padding-right: 25px;
+}
+
+.ytb{
+    float: left;
+    margin: 1rem auto;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.ly{
+    font-size: 11pt;
+    margin-top: 30px;
+}
+
+.ly2{
+    color: black;
+}
+
+.card2{
+    background-color: #256D85;
+    height: 60px;
+    width: 60px;
+    padding: 45px 45px;
+    font-size: 20px;
+}
+
+.presentation{
+    margin: 1rem auto;
+    width: 50px;
+    padding-bottom: 10px;
+    float: left;
+    margin-right: 10px;
+}
+
+.txt{
+    padding-bottom: 20px;
+}
+
+.card3{
+    background-color: #256D85;
+    height: 60px;
+    width: 60px;
+    padding: 45px 60px;
+    text-align: center;
+    font-size: medium;
+}
+
+
+.H3{
+    height: 100vh;
+}
+
+.mts{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.sma{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.kul{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.lt{
+    background-color: #256D85;
+    height: 60px;
+    width: 60px;
+    padding: 45px 35px;
+}
+
+.kisah{
+    background-color: #256D85;
+    height: 60px;
+    width: 60px;
+    padding: 45px 45px;
+    font-size: 20px;
+}
+
+.poto1{
+    width: 200px;
+    padding-bottom: 10px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 10%;
+}
+
+footer{
+   background-color: #256D85;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.f{
+    color: #47B5FF;
+}

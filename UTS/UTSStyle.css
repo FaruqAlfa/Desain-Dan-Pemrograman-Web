@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+    min-height: 100%;
+    background-image: linear-gradient(white, blue, red);
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/*Header*/
+
+.navbar{
+    position: sticky;
+    display: flex;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    background-color:white;
+    transition: all 0.5s;
+}
+
+.navbar .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-item{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nameIcon{
+    color: black;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+a{
+    line-height: 70px;
+    text-decoration: none;
+    padding: 0 10px;
+    height: 100%;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+a:hover{
+   border-bottom: 3px solid white;
+}
+
+/* Body */
+
+.card-box .card img{
+    width: 100%;
+}
+
+.item .container{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.title{
+text-align: center;
+
+}
+
+.card-box{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.card{
+    border: 1px solid black;
+    width: 30%;
+    margin-top: 20px;
+    background-color: white;
+}
+
+.card h2, .card p{
+text-align: center;
+margin: 15px;
+
+}
+
+
+/* Body2 */
+
+.item2 .container2{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: flex;
+    flex-direction:column ;
+    margin-top: 100px;
+}
+
+.judul{
+    text-align: center;
+}
+
+.card-box2{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card2{
+    border: 1px solid black;
+    width: 17.5%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.jenis{
+color: white;
+background-color: maroon;
+}
+
+/* Footer */
+.bawah{
+    background-color: grey;
+}
+
+.bawah .item3{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: flex;
+    flex-direction:column ;
+    margin-top: 100px;
+}
+
+.card-box3{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.about{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.card3{
+    border: 1px solid black;
+    width: 20%;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.card3C{
+    border: 1px solid black;
+    width: 20%;
+    margin-top: 20px;
+    text-align: left;
+}
